@@ -34,12 +34,12 @@
   // autoplays; advances automatically when a track ends.
   // =========================================================
   const tracks = [
-  { title: "Juna", artist: "Clairo", src: "songs/clairo-juna.mp3" },
-  { title: "Crack Rock", artist: "Frank Ocean", src: "songs/crack-rock.mp3" },
-  { title: "Vibrate", artist: "Daniel Caesar", src: "songs/daniel-caesar-vibrate.mp3" },
-  { title: "Yogurt Shake", artist: "NCT DREAM", src: "songs/nct-dream-yogurt-shake.mp3" },
-  { title: "Girl Like Me", artist: "PinkPantheress", src: "songs/pinkpantheress-girl-like-me.mp3" },
-  { title: "Chk Chk Boom", artist: "Stray Kids", src: "songs/stray-kids-chk-chk-boom.mp3" }];
+  { title: "Juna", artist: "Clairo", src: "clairo-juna.mp3" },
+  { title: "Crack Rock", artist: "Frank Ocean", src: "crack-rock.mp3" },
+  { title: "Vibrate", artist: "Daniel Caesar", src: "daniel-caesar-vibrate.mp3" },
+  { title: "Yogurt Shake", artist: "NCT DREAM", src: "nct-dream-yogurt-shake.mp3" },
+  { title: "Girl Like Me", artist: "PinkPantheress", src: "pinkpantheress-girl-like-me.mp3" },
+  { title: "Chk Chk Boom", artist: "Stray Kids", src: "stray-kids-chk-chk-boom.mp3" }];
 
 
   function KpopPlayer() {
